@@ -1,0 +1,7 @@
+; level_01 - straight line
+; first steps: just press any key to move right
+steps: 20
+start_dir: right
+########################
+#@.....................*#
+########################
